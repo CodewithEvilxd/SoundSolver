@@ -22,7 +22,7 @@ function App() {
             <ul className="flex flex-wrap justify-center items-center mb-4 text-gray-900 dark:text-white">
               <li>
                 <a
-                  href="https://github.com/Utkarshalways/SoundSolver/blob/main/README.md"
+                  href="https://github.com/CodewithEvilxd/SoundSolver/blob/main/README.md"
                   className="mr-4 hover:underline md:mr-6 "
                 >About
                 </a>
@@ -47,7 +47,7 @@ function App() {
             <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
               © 2021-2022{" "}
               <a
-                href="https://github.com/utkarshalways/SoundSolver"
+                href="https://github.com/CodewithEvilxd/SoundSolver"
                 className="hover:underline"
               >
                 Sound-Solver™
