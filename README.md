@@ -43,8 +43,8 @@ Ready to calculate digits with your voice? Click on the "MIC" button to start us
 
 ## Feedback
 
-We value your feedback! If you have any suggestions, questions, or encounter any issues while using SoundSolver, please don't hesitate to reach out to us at [Email](mailto:unknownbrry@gmail.com).
+We value your feedback! If you have any suggestions, questions, or encounter any issues while using SoundSolver, please don't hesitate to reach out to us at [Email](mailto:codewithevilxd@gmail.com).
 
 ## About Us
 
-SoundSolver is developed by [UtkarshAlways](https://github.com/Utkarshalways), a team passionate about leveraging innovative technologies to create useful and accessible web applications. Learn more about us [Here](https://github.com/Utkarshalways/SoundSolver).
+SoundSolver is developed by [UtkarshAlways](https://github.com/codewithEvilxd), a team passionate about leveraging innovative technologies to create useful and accessible web applications. Learn more about us [Here](https://github.com/codewithEvilxd/SoundSolver).
