@@ -29,7 +29,7 @@ function App() {
               </li>
               <li>
                 <a
-                  href="mailto:unknownbrry@gmail.com"
+                  href="mailto:codewithevilxd@gmail.com"
                   className="mr-4 hover:underline md:mr-6"
                 >
                   FAQs
@@ -37,7 +37,7 @@ function App() {
               </li>
               <li>
                 <a
-                  href="mailto:unknownbrry@gmail.com"
+                  href="mailto:codewithevilxd@gmail.com"
                   className="mr-4 hover:underline md:mr-6"
                 >
                   Contact
